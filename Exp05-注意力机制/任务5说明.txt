@@ -1,0 +1,2 @@
+1．任务：基于Pytorch框架和Transformer模型实现极简文本翻译任务。（设计性实践）
+补充完善“Exp05.Transformer_torch_TODO.ipynb”程序中的代码。本实践中的Transformer模型所有子模块全部自定义实现。本实践翻译模型只训练翻译两句话，了解Transformer最简易翻译模型的原理，只包含两句话的数据集足够。真正使用时，只需要替换更大的训练数据集即可。通过该实践对使用Pytorch完成基于Transformer的文本翻译任务有更直观的认识。

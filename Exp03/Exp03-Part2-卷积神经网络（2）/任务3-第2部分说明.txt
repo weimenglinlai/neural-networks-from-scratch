@@ -1,0 +1,6 @@
+1．任务一：基于ResNet18网络完成图像分类任务（Paddle）（验证性实践）
+运行并学习“Exp03-Part2-t1.CNN_cifar_paddle.ipynb”程序，该部分使用CIFAR-10数据集，采用paddle自定义了数据集类CIFAR10Dataset、数据加载器和paddle框架中预定义的Resnet18模型，实现一个基于Resnet18的10类别彩色图像分类模型，并实现了模型的训练、评价和预测，通过该实践对使用paddle完成图像分类任务有更直观的认识。
+
+
+2．任务二：基于ResNet18网络完成图像分类任务（Pytorch）（设计性实践）
+补充完善“Exp03-Part2-t2.CNN_cifar_torch_todo.ipynb”程序。本任务与任务一类似，仍然使用CIFAR-10数据集，采用Pytorch构建自定义的数据集类、数据加载器和pytorch框架中预定义的Resnet18模型，并实现模型的训练、评价和预测，最终实现10类别彩色图像分类。
